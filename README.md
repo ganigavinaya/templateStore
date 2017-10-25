@@ -1,4 +1,4 @@
-# templateStore
+# TemplateStore
 
 Application displays a simple web templates store like bootstrap templates.
 
